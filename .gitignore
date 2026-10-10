@@ -1,0 +1,15 @@
+# Compiled binaries
+hospital
+hospital.exe
+*.o
+*.obj
+*.out
+
+# IDE files
+.vscode/
+.idea/
+*.user
+
+# Local application records (may contain private data)
+data/*.txt
+!data/.gitkeep
